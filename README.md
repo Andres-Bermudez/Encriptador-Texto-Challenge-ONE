@@ -7,7 +7,7 @@ del programa de One Oracle Next Education en Alura.
 
 ## Tecnologías Utilizadas: HTML, CSS, JavaScript.
 
-## Aplicación con adaptabilidad a diferentes dispositivos("Responsive").
+## Aplicación con adaptabilidad a diferentes dispositivos.
 
 ![](./images/imagenMuestra.png)
 
